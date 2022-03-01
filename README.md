@@ -1,3 +1,3 @@
-# Ry-X
+# Lexon
 
 # Coming Soon
