@@ -1,3 +1,3 @@
-# Lexon
+# Lexon Music System
 
 # Coming Soon
